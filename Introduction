@@ -1,0 +1,8 @@
+Un bastion c'est un serveur informatique occupant un rôle de protection des systèmes sensibles ou n'ayant pas encore été protégés contre les menaces courantes.
+Il permet de filtrer le trafic d'un réseau comme un pare-feu en autorisant ou non des connexions selon des règles de configurations précises.
+Il réduit la présence de failles de sécurité et leurs repercussions potentielles dans les systèmes.
+
+Les avantages d'avoir un bastion sur notre environnement informatique sont assez nombreux. 
+Ils permettent d'offrir une traçabilité des sessions utilisateurs, réduire le champ d'attaque des malveillants en filtrant le trafic ou encore de centraliser le contrôle d'accès dans la gestion des identités
+
+Pour les solutions de bastion que je connais, il y a Teleport, Apache Guacamole (dont vous verrez quelques captures de l'interface)
